@@ -24,7 +24,7 @@ COPY --from=build ${DEPENDENCY}/BOOT-INF/classes /app
 ENV USERNAME "postgres"
 ENV PASSWORD "mysecretpassword"
 ENV URL "jdbc:postgresql://localhost:5432/postgres"
-ENV SERVER_URI "http://localhost:8888"
-ENV SPRING_PROFILE "local"
+ENV SERVER_URI "http://swag-config-server:8888"
+ENV SPRING_PROFILE "test"
 
-ENTRYPOINT ["java","-cp","app:app/lib/*","com.example.swagdiscovery.SwagArtistApplicationKt"]
+ENTRYPOINT ["java","-cp","app:app/lib/*","com.example.swagartist.SwagArtistApplicationKt"]
