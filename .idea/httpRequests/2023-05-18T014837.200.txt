@@ -1,0 +1,1 @@
+Mensaje enviado: Notification(idUser=646564830b991786e54f220e, idArtist=646564830b991786e54f220e, state=true)

@@ -12,8 +12,8 @@ RUN mkdir -p target/dependency && (cd target/dependency; jar -xf ../*.jar)
 
 FROM eclipse-temurin:11
 
-#RUN mkdir -p logs/archived/
-#VOLUME logs/archived/
+RUN mkdir -p logs/archived/
+VOLUME logs/archived/
 
 VOLUME /tmp
 ARG DEPENDENCY=/workspace/app/target/dependency

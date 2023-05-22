@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-05-18T15:49:01.117+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/artist"
+}

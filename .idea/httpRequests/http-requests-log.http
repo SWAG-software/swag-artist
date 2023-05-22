@@ -1,0 +1,108 @@
+GET http://localhost:8008/artist
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-18T114936.500.json
+
+###
+
+GET http://localhost:8008/artist
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-18T114901.500.json
+
+###
+
+GET http://localhost:8008/artist/like/646564830b991786e54f220e/646564830b991786e54f220e/true
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-18T014837.200.txt
+
+###
+
+GET http://localhost:8008/artist/like/646564830b991786e54f220e/646564830b991786e54f220e/true
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-18T013246.200.txt
+
+###
+
+GET http://localhost:8008/artist/like/646564830b991786e54f220e/646564830b991786e54f220e/true
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-18T012953.200.txt
+
+###
+
+GET http://localhost:8008/artist/like/646564830b991786e54f220e/646564830b991786e54f220e/true
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-18T012745.200.txt
+
+###
+
+GET http://localhost:8008/artist/like/646564830b991786e54f220e/646564830b991786e54f220e/true
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-18T012501.200.txt
+
+###
+
+GET http://localhost:8008/artist/like/646564830b991786e54f220e/646564830b991786e54f220e/true
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-18T010551.200.txt
+
+###
+
+GET http://localhost:8008/artist/like/646564830b991786e54f220e/646564830b991786e54f220e/true
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-18T010300.200.txt
+
+###
+
+GET http://localhost:8008/artist/646564830b991786e54f220e/646564830b991786e54f220e/true
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-18T010245.404.json
+
+###
+
+GET http://localhost:8008/artist
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-18T002218.200.json
+
+###
+
+GET http://localhost:8008/artist
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.14 (Java/17.0.6)
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-18T002049.200.json
+
+###
+

@@ -8,8 +8,7 @@ spring:
       uri: mongodb+srv://JuancaJcA:5iNlK1vFPU6KWwpq@labooncluster.ptkenzc.mongodb.net/?retryWrites=true&w=majority
       database: Software
   zipkin:
-    #    base-url: http://localhost:9411/
-    base-url: http://openzipkin-zipkin:9411/
+    base-url: http://localhost:9411/
     locator:
       discovery:
         enabled: true
@@ -24,6 +23,6 @@ eureka:
   client:
     registerWithEureka: true
     serviceUrl:
-      defaultZone: http://swag-discovery:8703/eureka/
-#      defaultZone: http://localhost:8703/eureka/
+      #      defaultZone: http://swag-discovery:8703/eureka/
+      defaultZone: http://localhost:8703/eureka/
     enabled: true

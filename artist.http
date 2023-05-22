@@ -1,0 +1,4 @@
+### Get All Artist
+http://localhost:8008/artist
+### RabbitMQ
+http://localhost:8008/artist/like/646564830b991786e54f220e/646564830b991786e54f220e/true
